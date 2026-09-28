@@ -1,6 +1,6 @@
 # Actividad 1 - Organizando Información con Estructuras de Datos
 
-Nombre:Tomas Amaya 
+Nombre: Tomas Amaya 
 Legajo: 17813/7
 
 Taller de Lenguajes - Redictado, Segundo Semestre 2026
