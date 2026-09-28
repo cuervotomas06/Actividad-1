@@ -26,11 +26,11 @@ roles = {
         "completitud_minima": 80
     },
     "analista": {
-        "columnas_interes": ["EDAD", "MAS_500", "ESTADO", "ITF"],
-        "criterio_orden": "completitud",
-        "orden": "D",
-        "completitud_minima": 75
-    }
+    "columnas_interes": ["ESTADO", "CAT_OCUP", "EDAD", "REGION", "AGLOMERADO", "TRIMESTRE", "ITF", "MAS_500", "GDECCFR"],
+    "criterio_orden": "completitud",
+    "orden": "D",
+    "completitud_minima": 75
+}
 }
 
 
