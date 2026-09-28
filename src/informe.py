@@ -10,6 +10,7 @@ columnas = {
     "ITF":        {"tipo": "int",    "completitud": 60},
     "MAS_500":    {"tipo": "string", "completitud": 85},
     "GDECCFR":    {"tipo": "int",    "completitud": 70},
+    "NIVEL_ED":   {"tipo": "int",    "completitud": 88},
 }
 
 roles = {
